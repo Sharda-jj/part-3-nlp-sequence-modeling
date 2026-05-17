@@ -1,8 +1,4 @@
 # Part 3: NLP Pipeline and Sequence Modeling
-
-Prepared by: Sharda Jadhav  
-MBA in Data Analytics
-
 ---
 
 # Project Overview
